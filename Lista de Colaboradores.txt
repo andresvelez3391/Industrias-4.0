@@ -6,7 +6,7 @@ Andres Velez - andresvelez3391
 
 Colaboradores:
 
-Yhordan -       usuario     - tarea
+Jhordan Villamil Acevedo (jhordanv10 - Diagrama de clases)
 
 
 Juan Camilo -    usuario     -  tarea
